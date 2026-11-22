@@ -37,11 +37,11 @@
     "Lighting": {
       "$properties": {
         "Ambient": [
-          0,
-          0,
-          0
+          185,
+          145,
+          105
         ],
-        "Brightness": 2,
+        "Brightness": 2.5,
         "GlobalShadows": true,
         "Outlines": false,
         "Technology": "Voxel"
