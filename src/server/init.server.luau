@@ -1,8 +1,6 @@
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
 
-Workspace:ClearAllChildren()
-
 local function newPart(name, size, position, color, material, parent)
 	local part = Instance.new("Part")
 	part.Name = name
